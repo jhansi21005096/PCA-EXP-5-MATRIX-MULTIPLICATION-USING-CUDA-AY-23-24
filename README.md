@@ -204,7 +204,9 @@ int main()
 ```
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/jhansi21005096/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/blob/main/outaaa.png)
+![output](https://github.com/jhansi21005096/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/blob/main/outbbb.png)
+![output](https://github.com/jhansi21005096/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/blob/main/outccc.png)
 
 ## RESULT:
 Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000211 sec and host took 0.000216 sec.
